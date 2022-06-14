@@ -1,2 +1,2 @@
 # Calculator
- Responsive calculcator
+ Responsive calculator.
